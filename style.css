@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 5rem;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 1rem;
+    overflow: hidden;
+  }
+  
+  .card-header {
+    border-radius: 1rem 1rem 0 0;
+  }
+  
+  .form-control {
+    border-radius: 1rem;
+  }
+  
+  .input-group-prepend {
+    border-radius: 1rem 0 0 1rem;
+  }
+  
+  .btn {
+    border-radius: 1rem;
+  }
+  
+  .btn-block {
+    margin-bottom: 1rem;
+  }
+  
+  .fab {
+    margin-right: 0.5rem;
+  }
